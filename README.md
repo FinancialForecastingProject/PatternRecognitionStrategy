@@ -13,7 +13,7 @@
 
 </div>
 
-[Documentation](https://tradingview.github.io/lightweight-charts/) | [Discord community](https://discord.gg/UC7cGkvn4U)
+[Documentation](https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/wiki) | [Discord community](https://discord.gg/PHrywfC6Ze)
 
 
 Pattern Recognition Strategy is a prediction strategy we established observing what happened on financial markets.

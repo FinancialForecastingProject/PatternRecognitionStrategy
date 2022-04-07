@@ -37,12 +37,17 @@ We also compared this method to the Dynamic Time Warping method.
 
 <div align="center">
   <a>
-    <img width="50%" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/dtw_AAPL_AMZN.png?sanitize=true">
+    <img width="100%" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/dtw_AAPL_AMZN.png?sanitize=true">
   </a>
   <a>
-    <img width="50%" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/dist_point_par_pointAAPL_AMZN.png?sanitize=true">
+    <img width="100%" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/dist_point_par_pointAAPL_AMZN.png?sanitize=true">
+  </a>
+  <a>
+    <img width="100%" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/distance_results.png?sanitize=true">
   </a>
 </div>
+
+Concerning the result we concluded that the comparison with the point to point strategy was as relevent as the dynamic time warping one. 
 
 ## Contributors
 <a href = "https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/graphs/contributors">

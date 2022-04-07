@@ -7,9 +7,9 @@
 
 
 
-  <h1>Pattern Recognition Strategy</h1>
+  <h1><b>Pattern Recognition Strategy</h1>
 
-  [![ProgressionLink][progress]][ProgressionLink]
+  [![ProgressionLink][progress]][ProgressionLink] [![license][license]][license] [![twitter][twitter]][twitter]
 
 </div>
 
@@ -33,8 +33,15 @@ However, since patterns might be difficult to identify we tried to analyze and c
 We developed an algorithm which calculates the sum of relative distances between two points.
 The output is a score, and the lower the score is the better the pattern matches to the reference curve.
 
+### Other way to analyze patterns
 
+We also compared this method to the Dynamic Time Warping method.
 
+<div align="center">
+  <a>
+    <img width="100%" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/pattern_recognition_strategies.png?sanitize=true">
+  </a>
+</div>
 
 
 
@@ -45,5 +52,9 @@ The output is a score, and the lower the score is the better the pattern matches
 </a>
 
 
+
+
 [ProgressionLink]: https://app.clickup.com/20572724/v/x/kkuhm-648
 [progress]: https://img.shields.io/badge/Progression-69.44%25-blue
+[license]: https://img.shields.io/github/license/FinancialForecastingProject/PatternRecognitionStrategy
+[twitter]:https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FFinancialForecastingProject%2FPatternRecognitionStrategy%2F

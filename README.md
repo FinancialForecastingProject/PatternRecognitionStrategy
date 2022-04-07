@@ -51,7 +51,7 @@ We also compared this method to the Dynamic Time Warping method.
   </a>
 </div>
 
-```Python
+```
 "Point to point AAPL / AMZN  Mean distance" : 0.02
 "Dynamic time warping AAPL / AMZN Mean distance" : 0.02
 ```

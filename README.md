@@ -5,11 +5,9 @@
     <img width="200" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/Logo.svg?sanitize=true">
   </a>
 
-
-
   <h1><b>Pattern Recognition Strategy</h1>
 
-  [![ProgressionLink][progress]][ProgressionLink] [![license][license]][license] [![twitter][twitter]][twitter]
+  [![ProgressionLink][progress]][ProgressionLink] [![license][license]][license] [![twitterLink][twitter]][twitterLink]
 
 </div>
 
@@ -39,22 +37,21 @@ We also compared this method to the Dynamic Time Warping method.
 
 <div align="center">
   <a>
-    <img width="100%" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/pattern_recognition_strategies.png?sanitize=true">
+    <img width="50%" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/dtw_AAPL_AMZN.png?sanitize=true">
+  </a>
+  <a>
+    <img width="50%" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/dist_point_par_pointAAPL_AMZN.png?sanitize=true">
   </a>
 </div>
 
-
-
 ## Contributors
-
 <a href = "https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=FinancialForecastingProject/PatternRecognitionStrategy" alt="contributors : Hugo DEMENEZ, Aksel MAHE, Benoît LUSSET"/>
 </a>
-
-
-
 
 [ProgressionLink]: https://app.clickup.com/20572724/v/x/kkuhm-648
 [progress]: https://img.shields.io/badge/Progression-69.44%25-blue
 [license]: https://img.shields.io/github/license/FinancialForecastingProject/PatternRecognitionStrategy
 [twitter]:https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FFinancialForecastingProject%2FPatternRecognitionStrategy%2F
+
+[twitterLink]:https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FFinancialForecastingProject%2FPatternRecognitionStrategy%2F

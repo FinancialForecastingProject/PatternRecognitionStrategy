@@ -52,8 +52,8 @@ We also compared this method to the Dynamic Time Warping method.
 </div>
 
 ```Python
-Point to point AAPL / AMZN  Mean distance : 0.02
-Dynamic time warping AAPL / AMZN Mean distance : 0.02
+"Point to point AAPL / AMZN  Mean distance" : 0.02
+"Dynamic time warping AAPL / AMZN Mean distance" : 0.02
 ```
 
 Concerning the result we concluded that the comparison with the point to point strategy was as relevent as the dynamic time warping one. 

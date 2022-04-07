@@ -44,10 +44,10 @@ We also compared this method to the Dynamic Time Warping method.
 
 <div align="center">
   <a>
-    <img width="100%" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/dtw_AAPL_AMZN.png?sanitize=true">
+    <img width="45%" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/dtw_AAPL_AMZN.png?sanitize=true">
   </a>
   <a>
-    <img width="100%" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/dist_point_par_pointAAPL_AMZN.png?sanitize=true">
+    <img width="45%" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/dist_point_par_pointAAPL_AMZN.png?sanitize=true">
   </a>
   <a>
     <img width="100%" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/distance_results.png?sanitize=true">

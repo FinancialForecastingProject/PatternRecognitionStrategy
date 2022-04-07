@@ -75,7 +75,7 @@ We want to predict what will happen in 21 days on the AAPL chart.
 
 1. Once we know which dataset (corresponding to a pattern) fits the best with our reference dataset, we look at what happened after the matching on the pattern.
 
-[![Prediction Illustration](https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/prediction_for_AAPL_using_MULN.svg?sanitize=true)]
+[![Prediction Illustration](https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/prediction_for_AAPL_using_PYPL.png?sanitize=true)]
 
 
 ## Contributors

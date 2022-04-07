@@ -21,7 +21,14 @@ Through our experience in trading, we had the opportunity to learn technical ana
 
 In fact, markets are efficient by definition, and since the majority tries to follow the technical analysis the market is today predictable and we observe patterns.
 
-However, since patterns might be difficult to identify we tried to analyze and categorize each and every pattern.
+However, since patterns might be difficult to identify we tried to analyze and categorize each and every pattern using a mathematical approach.
+
+<div align="center">
+  <a>
+    <img width="200" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/PatternMatchingAnalysis.png?sanitize=true">
+  </a>
+
+</div>
 
 
 

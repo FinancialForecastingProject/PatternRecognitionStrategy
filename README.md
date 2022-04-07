@@ -25,11 +25,11 @@ However, since patterns might be difficult to identify we tried to analyze and c
 
 <div align="center">
   <a>
-    <img width="200" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/PatternMatchingAnalysis.svg?sanitize=true">
+    <img width="100%" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/PatternMatchingAnalysis.svg?sanitize=true">
   </a>
 </div>
 
-
+## Pattern Recognition Strategy
 
 ## Contributors
 

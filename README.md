@@ -13,6 +13,10 @@
 
 [Documentation](https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/wiki) | [Discord community](https://discord.gg/PHrywfC6Ze)
 
+- [Pattern Recognition Strategy](#pattern-recognition-strategy)
+  - [Other way to analyze patterns](#other-way-to-analyze-patterns)
+- [Contributors](#contributors)
+
 
 Pattern Recognition Strategy is a prediction strategy we established observing what happened on financial markets.
 Through our experience in trading, we had the opportunity to learn technical analysis and market fundamentals.

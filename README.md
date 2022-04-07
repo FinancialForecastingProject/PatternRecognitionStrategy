@@ -37,7 +37,7 @@ However, since patterns might be difficult to identify we tried to analyze and c
 </div>
 
 We developed an algorithm which calculates the sum of relative distances between two points.
-The output is a score, and the lower the score is the better the pattern matches to the reference curve.
+The output is the average distance between two points, and the lower the output is the better the pattern matches to the reference curve.
 
 ### Other way to identify patterns
 
@@ -74,6 +74,9 @@ We want to predict what will happen in 21 days on the AAPL chart.
 1. We put each and every 21 values charts in the algorithm to find the one which has the best pattern matching with our AAPL chart of 21 values.
 
 1. Once we know which dataset (corresponding to a pattern) fits the best with our reference dataset, we look at what happened after the matching on the pattern.
+
+[![Prediction Illustration](https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/prediction_for_AAPL_using_MULN.svg?sanitize=true)]
+
 
 ## Contributors
 <a href = "https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/graphs/contributors">

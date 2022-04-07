@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/" target="_blank">
-    <img width="200" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/Chart.svg?sanitize=true">
+    <img width="200" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/Logo.svg?sanitize=true">
   </a>
 
 

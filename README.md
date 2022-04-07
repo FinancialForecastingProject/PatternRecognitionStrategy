@@ -49,10 +49,12 @@ We also compared this method to the Dynamic Time Warping method.
   <a>
     <img width="45%" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/dist_point_par_pointAAPL_AMZN.png?sanitize=true">
   </a>
-  <a>
-    <img width="100%" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/distance_results.png?sanitize=true">
-  </a>
 </div>
+
+```Python
+Point to point AAPL / AMZN  Mean distance : 0.02
+Dynamic time warping AAPL / AMZN Mean distance : 0.02
+```
 
 Concerning the result we concluded that the comparison with the point to point strategy was as relevent as the dynamic time warping one. 
 

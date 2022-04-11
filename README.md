@@ -61,6 +61,8 @@ Concerning the result we concluded that the comparison with the point to point s
 Since we had to be as clear as possible concerning the strategy we decided to go for the point to point distance strategy.
 
 ### How to predict
+  
+  First of all we have searched for strategies to set up a prediction using the data we extracted from this pattern recognition.
 
 1. Let's assume that we have a reference dataset : the 21 last days of daily close prices for AAPL
 We want to predict what will happen in 21 days on the AAPL chart.

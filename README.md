@@ -56,13 +56,13 @@ The output is the average distance between two points, and the lower the output 
 Point to point AAPL / AMZN  Mean distance : 0.02
 Dynamic time warping AAPL / AMZN Mean distance : 0.02
 ```
-
+<div align="justify">
 Concerning the result we concluded that the comparison with the point to point strategy was as relevent as the dynamic time warping one. 
-Since we had to be as clear as possible concerning the strategy we decided to go for the point to point distance strategy.
+Since we had to be as clear as possible concerning the strategy we decided to go for the point to point distance strategy.</div>
 
 ### How to predict
-  
-  First of all we have searched for strategies to set up a prediction using the data we extracted from this pattern recognition, what came up first was a strategy inspired by Rolling Forecasts based on the continuous analysis of past data to know what would happen in the future. This is the starting point of our project and we will introduce it in the following points.
+  <div align="justify">
+  First of all we have searched for strategies to set up a prediction using the data we extracted from this pattern recognition, what came up first was a strategy inspired by Rolling Forecasts based on the continuous analysis of past data to know what would happen in the future. This is the starting point of our project and we will introduce it in the following points.</div>
 
 1. Let's assume that we have a reference dataset : the 21 last days of daily close prices for AAPL
 We want to predict what will happen in 21 days on the AAPL chart.

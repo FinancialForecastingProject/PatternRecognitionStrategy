@@ -80,16 +80,16 @@ We want to predict what will happen in 21 days on the AAPL chart.
 ![Prediction Illustration](https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/prediction_for_AAPL_using_PYPL.png?sanitize=true)]
   
 ###  Getting a forecast
-
-To set up our forecast, we take the data from our curve of comparison which represents what happenned right after the data associated to the reference curve. We will divide these data by their mean in order to recentre these in a value that can be compared to the values extracted from the other curves, and then we multiply these data again by the reference curve mean (we are scalling up these curves). Once this is done, we just have to read the desired value, for example if you want a forecast on the 7th day, you will read the 7th value.
+<div align="justify">
+To set up our forecast, we take the data from our curve of comparison which represents what happenned right after the data associated to the reference curve. We will divide these data by their mean in order to recentre these in a value that can be compared to the values extracted from the other curves, and then we multiply these data again by the reference curve mean (we are scalling up these curves). Once this is done, we just have to read the desired value, for example if you want a forecast on the 7th day, you will read the 7th value.</div>
 
 ###  The margin of error
-
-Once we got our forecast, we will compare it with the actual value and then calculate the margin of error. We will use it to understand our forecast and it will show if it was right or not.
+<div align="justify">
+Once we got our forecast, we will compare it with the actual value and then calculate the margin of error. We will use it to understand our forecast and it will show if it was right or not.</div>
 
 ###  Improve the result
-
-With a curve of comparison we get a forecast. We looked at what would happen we took a large amount of curves and did multiple forecasts to get the mean of all of these. So we edited our algorithm to add a new curve each time we calculate a forecast. The point was then to compare with how many curves we could get the slightest margin of error.
+<div align="justify">
+With a curve of comparison we get a forecast. We looked at what would happen we took a large amount of curves and did multiple forecasts to get the mean of all of these. So we edited our algorithm to add a new curve each time we calculate a forecast. The point was then to compare with how many curves we could get the slightest margin of error.</div>
 
 
 ## Contributors

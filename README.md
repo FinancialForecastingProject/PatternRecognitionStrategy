@@ -19,13 +19,13 @@
   - [Other way to identify patterns](#other-way-to-identify-patterns)
   - [How to predict](#how-to-predict)
 - [Contributors](#contributors)
-
+<div align="justify">
 Pattern Recognition Strategy is a prediction strategy we established observing what happened on financial markets.
 Through our experience in trading, we had the opportunity to learn technical analysis and market fundamentals.
 
 In fact, markets are efficient by definition, and since traders try to follow the technical analysis it results in the predicability of the market and we are able to observe patterns.
 
-However, since patterns might be difficult to identify we tried to analyze and categorize each and every pattern using a mathematical approach.
+However, since patterns might be difficult to identify we tried to analyze and categorize each and every pattern using a mathematical approach.</div>
 
 ## Pattern Recognition Strategy
 
@@ -35,13 +35,13 @@ However, since patterns might be difficult to identify we tried to analyze and c
     <img width="100%" src="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/PatternMatchingAnalysis.svg?sanitize=true">
   </a>
 </div>
-
+<div align="justify">
 We developed an algorithm which calculates the sum of relative distances between two points.
 The output is the average distance between two points, and the lower the output is the better the pattern matches to the reference curve.
 
 ### Other way to identify patterns
 
-We also compared this method to the Dynamic Time Warping method.
+  We also compared this method to the Dynamic Time Warping method.</div>
 
 <div align="center">
   <a>

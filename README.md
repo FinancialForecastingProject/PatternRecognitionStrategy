@@ -18,6 +18,9 @@
 - [Pattern Recognition Strategy](#pattern-recognition-strategy)
   - [Other way to identify patterns](#other-way-to-identify-patterns)
   - [How to predict](#how-to-predict)
+  - [Getting a forecast](#getting-a-forecast)
+  - [The margin of error](#the-margin-of-error)
+  - [Improve the result](#improve-the-result)
 - [Contributors](#contributors)
 <div align="justify">
 Pattern Recognition Strategy is a prediction strategy we established observing what happened on financial markets.
@@ -77,8 +80,17 @@ We want to predict what will happen in 21 days on the AAPL chart.
 
 1. Once we know which dataset (corresponding to a pattern) fits the best with our reference dataset, we look at what happened after the matching on the pattern.
 
-![Prediction Illustration](https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/prediction_for_AAPL_using_PYPL.png?sanitize=true)]
-  
+<div>
+
+<div align="center">
+
+![Prediction Illustration](https://github.com/FinancialForecastingProject/PatternRecognitionStrategy/raw/main/.github/prediction_for_MSFT_using_XOM.png?sanitize=true)
+
+<div>
+
+<div align="justify">
+<div>
+
 ###  Getting a forecast
 <div align="justify">
 To set up our forecast, we take the data from our curve of comparison which represents what happenned right after the data associated to the reference curve. We will divide these data by their mean in order to recentre these in a value that can be compared to the values extracted from the other curves, and then we multiply these data again by the reference curve mean (we are scalling up these curves). Once this is done, we just have to read the desired value, for example if you want a forecast on the 7th day, you will read the 7th value.</div>

@@ -110,7 +110,7 @@ With a curve of comparison we get a forecast. We looked at what would happen we 
 </a>
 
 [ProgressionLink]: https://app.clickup.com/20572724/v/x/kkuhm-648
-[progress]: https://img.shields.io/badge/Progression-69.44%25-blue
+[progress]: https://img.shields.io/badge/Progression-95%25-blue
 [license]: https://img.shields.io/github/license/FinancialForecastingProject/PatternRecognitionStrategy
 [twitter]:https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FFinancialForecastingProject%2FPatternRecognitionStrategy%2F
 
